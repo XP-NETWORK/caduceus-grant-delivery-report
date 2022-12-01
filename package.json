@@ -1,0 +1,22 @@
+{
+  "name": "caduceus-grant-delivery-report",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/XP-NETWORK/caduceus-grant-delivery-report.git",
+  "author": "Dima Brook <dima@xp.network>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc && node ./dist/config.js",
+    "mint": "tsc && node ./dist/mint.js",
+    "list_nfts": "tsc && node ./dist/list.js",
+    "approve": "tsc && node ./dist/approve.js",
+    "transfer": "tsc && node ./dist/transfer.js",
+    "estimate": "tsc && node ./dist/estimate.js",
+    "return":"tsc && node ./dist/return.js"
+  },
+  "dependencies": {
+    "bignumber.js": "9.0.1",
+    "dotenv": "^16.0.3",
+    "xp.network": "git+https://github.com/xp-network/xpjs#bleeding-edge"
+  }
+}
