@@ -1,6 +1,6 @@
 # Caduceus Grant Delivery Report
 
-# DONE:
+# All DONE:
 
 ## Milestone 1 — Integrating into the Bridge Components:
 
@@ -18,15 +18,13 @@
    2. [Chain Nonces](http://docs-staging.xp.network.s3-website-eu-west-1.amazonaws.com/docs/Multibridge2.0/chain_nonces)
    3. [Bridge Contracts](http://docs-staging.xp.network.s3-website-eu-west-1.amazonaws.com/docs/Multibridge2.0/bridge_contracts)
 
-# TODO:
-
 ## Milestone 3 — Mainnet Integration
-1. Mainnet contract deployment
-2. Integrate Caduceus in the Mainnet-validators
-3. Integrate Caduceus in the Mainnet NFT-Indexer
-4. Extensive testing (Mainnet Transactions)
-5. UI - integrate Caduceus in the bridge UI
-6. Auxiliary systems integrations - Add Caduceus to 
-   1. the bridge JS library (staging & Mainnet)
-   2. and the Widget
+1. [Mainnet contract deployment](./milestone_3_proofs.md#1-mainnet-contract-deployment)
+2. [Integrate Caduceus in the Mainnet-validators](./milestone_3_proofs.md#2-integrate-caduceus-in-the-mainnet-validators)
+3. [Integrate Caduceus in the Mainnet NFT-Indexer](./milestone_3_proofs.md#3-integrate-caduceus-in-the-mainnet-nft-indexer)
+4. [Mainnet Testing](./milestone_3_proofs.md#4-mainnet-testing)
+5. [UI - integrate Caduceus in the bridge UI](./milestone_3_proofs.md#5-ui---integrate-caduceus-in-the-bridge-ui)
+6. [Auxiliary systems integrations - Add Caduceus to:](./milestone_3_proofs.md#6-auxiliary-systems-integrations---add-caduceus-to)
+   1. [the bridge JS library (staging & Mainnet)](./milestone_3_proofs.md#61-the-bridge-js-library-staging--mainnet)
+   2. [and the Widget](./milestone_3_proofs.md#62-and-the-widget)
 7. Social announcements of the successful integration of Caduceus
