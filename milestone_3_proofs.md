@@ -76,4 +76,18 @@ Caduceus -> Polygon
 
 [XP.Network JavaScriptLibrary](https://github.com/XP-NETWORK/xpjs/search?q=caduceus)
 
-### 6.2. and the Widget
+### 6.2. The Widget
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;6.2.1 Staging widget URL
+[Link to the Staging Widget with Caduceus](https://widget-staging.xp.network/connect?widget=true&wsettings=true)
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;6.2.1 Caduceus in the Bridge Widget UI
+
+6.2.1.1 Caduceus is an available blockchain in the settings pannel on the left:
+![Widget - Caduceus is among chains](assets/widget-1.png)
+
+6.2.1.2 Caduceus is an available departure/destination blockchain
+![Widget - Caduceus as departure/destination chain](assets/widget-2.png)
+
+6.2.1.3 NFT indexing, fee estimation, approving & tranferring are available for Caduceus
+![Widget - Caduceus NFT Indexing](assets/widget-3.png)
